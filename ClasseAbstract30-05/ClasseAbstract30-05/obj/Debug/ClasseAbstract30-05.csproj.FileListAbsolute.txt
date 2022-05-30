@@ -1,0 +1,6 @@
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\ClasseAbstract30-05\ClasseAbstract30-05\bin\Debug\ClasseAbstract30-05.exe.config
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\ClasseAbstract30-05\ClasseAbstract30-05\bin\Debug\ClasseAbstract30-05.exe
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\ClasseAbstract30-05\ClasseAbstract30-05\bin\Debug\ClasseAbstract30-05.pdb
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\ClasseAbstract30-05\ClasseAbstract30-05\obj\Debug\ClasseAbstract30-05.csprojResolveAssemblyReference.cache
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\ClasseAbstract30-05\ClasseAbstract30-05\obj\Debug\ClasseAbstract30-05.exe
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\ClasseAbstract30-05\ClasseAbstract30-05\obj\Debug\ClasseAbstract30-05.pdb
